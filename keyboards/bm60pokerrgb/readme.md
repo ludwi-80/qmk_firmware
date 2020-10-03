@@ -1,12 +1,10 @@
 # bm60pokerrgb
 
-![bm60pokerrgb](imgur.com image replace me!)
+A 60% hotswappable Poker layout keyboard with RGB from KP Republic.
 
-*A short description of the keyboard/project*
-
-* Keyboard Maintainer: [ludwi-80](https://github.com/yourusername)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Keyboard Maintainer: [ludwi-80](https://github.com/ludwi-80)
+* Hardware Supported: BM60 Poker RGB
+* Hardware Availability: [KP Republic](https://kprepublic.com/products/bm60-rgb-poker-60-gh60-hot-swap-custom-mechanical-keyboard-pcb-program-qmk-underglow-type-c)
 
 Make example for this keyboard (after setting up your build environment):
 
